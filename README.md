@@ -31,10 +31,6 @@ without the parentheses.
 
 ## Objectives
 
-### Grab the files from the gist
-
-Download the `cookie.rb` and `cookie_spec.rb` files from [the gist](https://gist.github.com/dbc-challenges/00d2f7a40f98de40a496).
-
 ### Orient yourself
 
 Before you even begin figuring out how to write your specs, look at the existing specs.  Take note of the structure and look at how the pieces fit together.
